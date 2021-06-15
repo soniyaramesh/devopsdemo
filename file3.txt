@@ -1,0 +1,12 @@
+git commands
+
+git init
+git add
+git commit
+git push
+git branch
+git status
+git merge
+git log
+git revert
+git stash

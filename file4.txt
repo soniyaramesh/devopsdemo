@@ -1,0 +1,3 @@
+ Merging two branches
+
+git merge src branch
