@@ -1,0 +1,7 @@
+stages of git
+working directory
+staging
+commiting
+push
+
+
